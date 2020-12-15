@@ -1,6 +1,6 @@
 # 9 svg-css icons
 
-wiev: https://lvivduncan.github.io/levus-icons/
+view: https://lvivduncan.github.io/levus-icons/
 
 
 ***
