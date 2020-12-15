@@ -1,6 +1,6 @@
 # 9 svg-css icons
 
-show: https://lvivduncan.github.io/icons/
+wiev: https://lvivduncan.github.io/levus-icons/
 
 
 ***
@@ -23,5 +23,7 @@ show: https://lvivduncan.github.io/icons/
     <i class="icon-stop"></i>
 
     <i class="icon-pause"></i>
+
+    <i class="icon-menu"></i>
 
 ***
